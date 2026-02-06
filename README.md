@@ -28,6 +28,6 @@ The animation runs directly in the browser using the `<canvas>` element and Java
 
 ### ❤️ Author
 
-Made with love by Waris
+Made with love by <b>Waris</b>  <br>
 Feel free to ⭐ the repo if you like it!
 
